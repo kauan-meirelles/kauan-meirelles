@@ -35,11 +35,23 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
 
 ---
 
-## 📈 Estatísticas
+### 📊 Estatísticas
 
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=kauan-meirelles&show_icons=true&theme=tokyonight)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-meirelles&layout=compact&theme=tokyonight)](https://github.com/kauan-meirelles)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kauan-meirelles&show_icons=true&hide_border=true&title_color=006400&text_color=006400&icon_color=006400&bg_color=00000000" height="150" alt="GitHub stats" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-meirelles&layout=compact&hide_border=true&title_color=006400&text_color=006400&bg_color=00000000" height="150" alt="Top languages" />
+
+  <!-- Contrib streak -->
+  <img src="https://streak-stats.demolab.com?user=kauan-meirelles&locale=pt_BR&mode=daily&theme=transparent&hide_border=true&ring=006400&fire=006400&currStreakLabel=006400" height="150" alt="Streak graph" />
+
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kauan-meirelles&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=Commit,Followers,Repositories,Stars,PullRequest&theme=flat&title_color=006400&text_color=006400" height="150" alt="Trophy graph" />
+
+</div>
 
 ---
 
