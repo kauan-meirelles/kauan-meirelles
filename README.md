@@ -53,7 +53,8 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
   <br><br>
 
   <!-- Troféus centralizados -->
-  <img src="https://github-profile-trophy.vercel.app?username=kauan-meirelles&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kauan-meirelles&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=006400&margin-w=0&margin-h=0" alt="GitHub Trophy" />
+
 
 </div>
 
