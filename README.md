@@ -68,6 +68,7 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
 ## 📫 Vamos conversar?
 
 Se quiser trocar uma ideia, tirar dúvidas ou falar sobre oportunidades, sinta-se à vontade para me contatar no LinkedIn
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-meirelles/)
 
 ---
