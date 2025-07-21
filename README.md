@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauan-meirelles&theme=dark-green" alt="GitHub Activity Graph" height="200" />
+</div>
+
+
 
 ### 👋 Seja bem-vindo(a) ao meu GitHub!
 
