@@ -31,12 +31,14 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
 ## 🚀 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br>
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="50" alt="Spring"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JavaScript"/>
+</div><br/>
+
 
 ---
 
