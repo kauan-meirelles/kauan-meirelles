@@ -13,12 +13,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Gerar a cobrinha
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: kauan-meirelles
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.svg?color_snake=006400&palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v2.1.3
