@@ -22,7 +22,7 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minha primeira oportunidade profissional na área de TI. Tenho habilidades em **Java**, **SQL**, **HTML**, **CSS**, **JavaScript** e **Python**, e estou sempre aprendendo algo novo por meio de projetos práticos e desafios.
+Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minha primeira oportunidade profissional na área de TI. Tenho habilidades em **Java**, **SQL**, **HTML**, **CSS**, **JavaScript** e **Spring**, e estou sempre aprendendo algo novo por meio de projetos práticos e desafios.
 
 🎯 Meu foco é desenvolver soluções criativas e funcionais, aprofundar meus conhecimentos e contribuir com projetos que impactem positivamente a sociedade.
 
