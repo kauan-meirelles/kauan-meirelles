@@ -20,8 +20,6 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
 
 🎯 Meu foco é desenvolver soluções criativas e funcionais, aprofundar meus conhecimentos e contribuir com projetos que impactem positivamente a sociedade.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-meirelles/)
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -69,6 +67,10 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
 
 ## 📫 Vamos conversar?
 
+Se quiser trocar uma ideia, tirar dúvidas ou falar sobre oportunidades, sinta-se à vontade para me contatar no LinkedIn
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-meirelles/)
+
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/pacman-contribution-graph.svg">
