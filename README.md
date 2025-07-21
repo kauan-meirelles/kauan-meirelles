@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer"/>
-</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006400&width=435&lines=Ol%C3%A1%2C+sou+o+Kauan+Meirelles;Sou+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
