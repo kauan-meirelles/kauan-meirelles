@@ -1,10 +1,6 @@
-<div style="width: 100%;">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer" 
-    style="width: 100%; height: 120px; object-fit: cover;" 
-    alt="footer capsule"
-  />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=header"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
