@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauan-meirelles&theme=dark-green" alt="GitHub Activity Graph" height="200" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kauan-meirelles&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true" alt="GitHub Activity Graph" height="200" />
 </div>
 
 
@@ -82,14 +82,7 @@ Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/kau
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kauan-meirelles.kauan-meirelles&"  />
-</div>
-
----
-
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kauan-meirelles.kauan-meirelles&right_color=darkgreen" />
 </div>
 
 ---
