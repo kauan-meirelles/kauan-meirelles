@@ -46,11 +46,9 @@ Sou apaixonado por tecnologia desde criança e atualmente estou em busca da minh
   <br><br>
 
   <!-- Troféus centralizados -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kauan-meirelles&theme=gruvbox&margin-w=8&margin-h=8&no-frame=true&no-bg=true&title=Commits,Followers,Repositories,PullRequest,Issues,Stars"   width="100%" alt="Trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=kauan-meirelles&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
 </div>
-
-
 
 ---
 
@@ -76,8 +74,20 @@ Sinta-se à vontade para me chamar no [LinkedIn](https://www.linkedin.com/in/kau
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kauan-meirelles.kauan-meirelles&"  />
+</div>
+
+---
+
+<!-- Snake Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer"/>
 </p>
-
 
