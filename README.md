@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12301c,100:1f883d&height=220&section=header&text=Kauan%20Meirelles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20TypeScript%20%7C%20Python%20%7C%20JavaScript%20%7C%20Java&descAlignY=58&descSize=16" width="100%" alt="Banner" />
 
 <a href="https://github.com/kauan-meirelles">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Construindo+APIs+limpas+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+MySQL;Aprendendo+em+p%C3%BAblico%2C+commit+a+commit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=Criando+aplica%C3%A7%C3%B5es+web+do+front+ao+back;Interfaces+bonitas+e+APIs+que+escalam;TypeScript+%7C+Python+%7C+JavaScript+%7C+Java;Aprendendo+em+p%C3%BAblico%2C+commit+a+commit" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/E--mail-1F883D?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 <a href="https://SEU-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
-<img src="https://komarev.com/ghpvc/?username=kauan-meirelles&label=Visitas&color=1f883d&style=for-the-badge" alt="Visitas"/>
+<img src="https://hits.sh/github.com/kauan-meirelles.svg?style=for-the-badge&label=Visitas&color=1f883d&labelColor=555555" alt="Visitas"/>
 
 </div>
 
