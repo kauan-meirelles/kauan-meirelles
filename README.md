@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12301c,100:1f883d&height=220&section=header&text=Kauan%20Meirelles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12301c,100:1f883d&height=220&section=header&text=Kauan%20Meirelles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%E2%80%A2%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="Banner" />
 
 <a href="https://github.com/kauan-meirelles">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Construindo+APIs+limpas+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+MySQL;Aprendendo+em+p%C3%BAblico%2C+commit+a+commit" alt="Typing SVG" />
@@ -118,9 +118,12 @@ public class Kauan {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan-meirelles&layout=donut&hide_border=true" alt="Linguagens" />
 </picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kauan-meirelles&theme=darkhub&no-frame=true&row=6&column=6" alt="Troféus" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=kauan-meirelles&theme=darkhub&no-frame=true&row=1&column=6" alt="Troféus" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/github-snake-dark.svg" alt="Snake" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kauan-meirelles/kauan-meirelles/output/github-snake.svg" alt="Snake" width="100%"/>
+</picture>
 
 </div>
 
