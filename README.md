@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12301c,100:1f883d&height=220&section=header&text=Kauan%20Meirelles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20%E2%80%A2%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=16" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:12301c,100:1f883d&height=220&section=header&text=Kauan%20Meirelles&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20TypeScript%20%7C%20Python%20%7C%20JavaScript%20%7C%20Java&descAlignY=58&descSize=16" width="100%" alt="Banner" />
 
 <a href="https://github.com/kauan-meirelles">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Construindo+APIs+limpas+e+escal%C3%A1veis;Java+%7C+Spring+Boot+%7C+MySQL;Aprendendo+em+p%C3%BAblico%2C+commit+a+commit" alt="Typing SVG" />
