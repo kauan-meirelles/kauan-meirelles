@@ -30,7 +30,7 @@ public class Kauan {
 
 | | |
 |---|---|
-| 🔭 **Agora** | Construindo [`nome-do-projeto`](https://github.com/kauan-meirelles/REPO) |
+| 🔭 **Agora** | Construindo o [`Convertify`](https://github.com/kauan-meirelles/convertify), um conversor de áudio full-stack |
 | 🌱 **Aprendendo** | Spring Security, testes com JUnit, Docker |
 | 🤝 **Procuro** | Estágio ou vaga júnior em Full-stack |
 | 💬 **Pergunte sobre** | Java, Spring, MySQL, Git |
@@ -71,34 +71,50 @@ public class Kauan {
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/kauan-meirelles/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauan-meirelles&repo=REPO-1&theme=github_dark&hide_border=false" alt="Projeto 1"/>
-</a>
-<a href="https://github.com/kauan-meirelles/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauan-meirelles&repo=REPO-2&theme=github_dark&hide_border=false" alt="Projeto 2"/>
-</a>
-
-<a href="https://github.com/kauan-meirelles/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauan-meirelles&repo=REPO-3&theme=github_dark&hide_border=false" alt="Projeto 3"/>
-</a>
-<a href="https://github.com/kauan-meirelles/REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauan-meirelles&repo=REPO-4&theme=github_dark&hide_border=false" alt="Projeto 4"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kauan-meirelles/orkut"><img src="assets/projetos/orkut.jpg" alt="Orkut Clássico"/></a>
+      <h3><a href="https://github.com/kauan-meirelles/orkut">🩷 orkut clássico</a></h3>
+      Recriação nostálgica do Orkut com recados, depoimentos que precisam de aprovação, comunidades com fórum, fãs e os medidores de confiável, legal e sexy.
+      <br/><br/>
+      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>MongoDB</code> <code>JWT</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kauan-meirelles/convertify"><img src="assets/projetos/convertify.jpg" alt="Convertify"/></a>
+      <h3><a href="https://github.com/kauan-meirelles/convertify">🎧 Convertify</a></h3>
+      Conversor de áudio em lote: arraste vários arquivos, escolha formato e qualidade, acompanhe o progresso em tempo real e baixe tudo em ZIP. Conversão com FFmpeg no servidor.
+      <br/><br/>
+      <code>React</code> <code>Tailwind</code> <code>FastAPI</code> <code>FFmpeg</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kauan-meirelles/gibiteca-ultra"><img src="assets/projetos/gibiteca-ultra.jpg" alt="Gibiteca Ultra"/></a>
+      <h3><a href="https://github.com/kauan-meirelles/gibiteca-ultra">💥 Gibiteca Ultra</a></h3>
+      Biblioteca e leitor de HQs com visual pop-art: busca, filtros por editora, gênero e ano, e leitor com zoom, tela cheia e atalhos de teclado.
+      <br/><br/>
+      <code>React</code> <code>Tailwind</code> <code>FastAPI</code> <code>MongoDB</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kauan-meirelles/floguinho"><img src="assets/projetos/floguinho.jpg" alt="Floguinho"/></a>
+      <h3><a href="https://github.com/kauan-meirelles/floguinho">📸 Floguinho</a></h3>
+      A rede social de fotos da série <i>De Volta aos 15</i> (Netflix): feed com filtros retrô, recados, "virar fã" e mensagens privadas entre os flogs.
+      <br/><br/>
+      <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>MongoDB</code>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>Ver detalhes dos projetos</b></summary>
+<summary><b>Mais projetos</b></summary>
 
 <br/>
 
-**nome-do-projeto-1** — API REST de ..., com autenticação JWT e documentação Swagger.
-`Java 21` `Spring Boot` `MySQL` `JWT`
-
-**nome-do-projeto-2** — Sistema web de ... com painel administrativo.
-`Java` `Thymeleaf` `JavaScript`
+| Projeto | Sobre | Stack |
+|---|---|---|
+| 🐺 [**QG Jão**](https://github.com/kauan-meirelles/qgjao) | Rede social de fãs do Jão, com feed, fórum, chat por canais, ranking de fãs e legendas geradas por IA | `React` `TypeScript` `FastAPI` `MongoDB` `OpenAI` |
+| 🐾 [**Instituto Vida Animal**](https://github.com/kauan-meirelles/clinica-veterinaria) | Site de clínica veterinária com agendamento online e painel administrativo | `React` `TypeScript` `FastAPI` `MongoDB` |
 
 </details>
 
