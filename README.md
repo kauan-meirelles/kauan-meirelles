@@ -21,7 +21,7 @@
 
 ```java
 public class Kauan {
-    String papel     = "Desenvolvedor Back-end";
+    String papel     = "Desenvolvedor Full-Stack";
     String foco      = "Java, Spring Boot, APIs REST";
     String estudando = "POO avançada, estruturas de dados, algoritmos";
     boolean aberto   = true; // estágio / vaga júnior
