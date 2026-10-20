@@ -32,7 +32,7 @@ public class Kauan {
 |---|---|
 | 🔭 **Agora** | Construindo [`nome-do-projeto`](https://github.com/kauan-meirelles/REPO) |
 | 🌱 **Aprendendo** | Spring Security, testes com JUnit, Docker |
-| 🤝 **Procuro** | Estágio ou vaga júnior em back-end |
+| 🤝 **Procuro** | Estágio ou vaga júnior em Full-stack |
 | 💬 **Pergunte sobre** | Java, Spring, MySQL, Git |
 
 <br/>
